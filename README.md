@@ -8,8 +8,7 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" src="https://github.com/Skizzy-create/Skizzy-create/blob/main/_9e5592ea-fdbf-43dc-a0f9-1d826bf4924e.jpg" alt="Your chosen image" width="250" height="245" />
 
 ###
 
