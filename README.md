@@ -50,12 +50,3 @@
 
 </div>
 
-
-###
-[![Generate snake animation](https://github.com/Skizzy-create/Skizzy-create/actions/workflows/snakes.yaml/badge.svg)](https://github.com/Skizzy-create/Skizzy-create/actions/workflows/snakes.yaml)
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Skizzy-create/Skizzy-create/output/snake.svg" alt="Snake animation" />
-
-###
