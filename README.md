@@ -47,7 +47,19 @@
   <a href="mailto:asliakartik@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/kartik-aslia-1406b0248/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
+
+###
+
+<h3 align="center">🔢 View Count</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Skizzy-create/count.svg?"  />
 </div>
 
+###
+
+<div align="center">
+  <h3>📊 Activity Graph</h3>
+  <a href="https://github.com/Skizzy-create/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skizzy-create&theme=dracula" alt="Activity Graph" />
+  </a>
+</div>
