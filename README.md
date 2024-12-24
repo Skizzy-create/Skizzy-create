@@ -59,6 +59,6 @@
 
 <div align="center">
   <a href="https://github.com/Skizzy-create/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skizzy-create&days=90&theme=github-compact" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skizzy-create&days=30&theme=github-compact" alt="Activity Graph" />
   </a>
 </div>
