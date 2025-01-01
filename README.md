@@ -3,11 +3,19 @@
 ###
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Skizzy-create&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,&column=-1" alt="GitHub Trophies" />
+</div>
+
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Skizzy-create&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skizzy-create&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
 <img align="right" src="https://github.com/Skizzy-create/Skizzy-create/blob/main/_9e5592ea-fdbf-43dc-a0f9-1d826bf4924e.jpg" alt="Your chosen image" width="250" height="245" />
 
 ###
