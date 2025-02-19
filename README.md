@@ -6,7 +6,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Skizzy-create&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,&column=-1" alt="GitHub Trophies" />
 </div>
 
-
 ###
 
 <div align="center">
@@ -65,8 +64,8 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Skizzy-create/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skizzy-create&days=30&theme=github-compact" alt="Activity Graph" />
   </a>
-</div>
+</div> -->
