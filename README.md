@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Skizzy (Kartik Aslia) and I'm a Student venturing into the vast fields of CS. </h2>
+<h3>I build things the way some people go on quests: pick up a weird problem, walk straight into the dangerous forest, and come back with a working system. Most of my adventures live somewhere between backend engineering and applied AI, where I’ve built multi-tenant platforms, document-intelligence workflows, streaming AI systems, and products that have to do more than just look clever, they have to survive real users. My favorite kind of work is the kind that starts as chaos, regulations, documents, latency, APIs, too many moving parts, and ends as something fast, useful, and almost suspiciously smooth. If there’s a dragon in the architecture, I usually go looking for it.</h3>
 
 ###
 
